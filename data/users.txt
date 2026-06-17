@@ -1,0 +1,3 @@
+ADM1|System Admin|admin@electricity.com|9999999999|admin123|ADMIN|true|Management|SUPER
+OPR1|Ravi Operator|ravi@electricity.com|9888888888|operator123|OPERATOR|true|North|0
+OPR2|Priya Operator|priya@electricity.com|9777777777|operator123|OPERATOR|true|South|0

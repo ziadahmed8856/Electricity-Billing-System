@@ -1,0 +1,2 @@
+COMP20241201001|CUST2|MTR002|Bill amount is too high, please check|2024-12-01 09:00:00|OPEN|BILLING_ISSUE|Bill calculation may be incorrect|NULL
+COMP20241202001|CUST3|MTR003|Meter not working properly|2024-12-02 10:00:00|IN_PROGRESS|METER_FAULT|Technician assigned to check|NULL

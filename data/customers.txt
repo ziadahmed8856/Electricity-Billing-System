@@ -1,0 +1,5 @@
+CUST1|MTR001|Rajesh Kumar|123 Main Street|North|9876543210|rajesh@email.com|OLD|true|0
+CUST2|MTR002|Priya Singh|456 Park Avenue|South|9876543211|priya@email.com|OLD|true|5000
+CUST3|MTR003|Amit Patel|789 Oak Lane|East|9876543212|amit@email.com|NEW|true|0
+CUST4|MTR004|Neha Sharma|321 Elm Street|West|9876543213|neha@email.com|NEW|true|0
+CUST5|MTR005|Vikram Reddy|654 Maple Drive|North|9876543214|vikram@email.com|OLD|true|15000
