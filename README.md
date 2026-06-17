@@ -446,6 +446,18 @@ run.bat
 - Operator: collect payments, print bills, view region reports
 - Customer: view/pay bills, submit readings, file complaints
 
+
+  ## Course Information
+
+**Course:**CS 213   Programming – 2
+
+**Faculty:** Faculty of Computing & Artificial Intelligence
+
+**University:** Capital University (Formerly Helwan University)
+
+**Semester:** Autumn 2025–2026
+
+
 Notes:
 - The app uses local text files in the `data/` folder to store records.
 - Email sending is simulated and logged in `logs/system.log`.
